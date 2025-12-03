@@ -1,2 +1,3 @@
 테스트 중
-cicd 해냈다 난 좀 직이는 듯
+cicd test
+error test
